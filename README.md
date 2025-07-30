@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi! 👋 I'm Elena
 
-<!--
-**elenadigital/elenadigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Scientist with a passion for machine learning, data analysis, and solving real-world problems using data. Currently building my skills through hands-on projects and continuous learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+
+`Python` | `Pandas` | `NumPy` |  `Matplotlib` | `Seaborn` | `Scikit-learn` | `CatBoost` | `LightGBM` | `TensorFlow` | `Git` | `SQL` | `Faiss` | `TfidfVectorizer` | `PyTorch`
+
+
+---
+Feel free to reach out if you'd like to connect! 😊
+
