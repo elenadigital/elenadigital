@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Elena
 
-I'm an aspiring Data Scientist with a passion for machine learning, data analysis, and solving real-world problems using data. Currently building my skills through hands-on projects and continuous learning.
+I'm a Data Scientist passionate about machine learning, data analysis, and solving real-world problems. Currently growing my skills through practical projects and ongoing learning.
 
 
 ## 🛠 Technologies & Tools
