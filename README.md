@@ -5,7 +5,12 @@ I'm a Data Scientist passionate about machine learning, data analysis, and solvi
 
 ## 🛠 Technologies & Tools
 
-`Python` | `Pandas` | `NumPy` |  `Matplotlib` | `Seaborn` | `Scikit-learn` | `CatBoost` | `LightGBM` | `TensorFlow` | `Git` | `SQL` | `Faiss` | `TfidfVectorizer` | `PyTorch`
+`Python` | `Pandas` | `NumPy` |  `Matplotlib` | `Seaborn` | `Scikit-learn` | `CatBoost` | `LightGBM` | `TensorFlow` | `Git` | `SQL` | `Faiss` | `TfidfVectorizer` | `PyTorch` | `Fast API` | `Docker`
+
+## My contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elen_kokareva)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elenakokareva/)
 
 
 ---
